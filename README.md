@@ -27,6 +27,7 @@ To get a local copy up and running follow these simple example steps.
 👤 **Luís Abarca**
 
 - GitHub: [@TheLuisAbarca](https://github.com/TheLuisAbarca)
+- Twitter: [@TheLuisAbarca](https://twitter.com/TheLuisAbarca)
 
 👤 **Nizamuddin Ahmadzai**
 
